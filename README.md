@@ -1,2 +1,2 @@
-# kin-perk-sweeps
-Documentation for the structure and development of the “Perk Digital Art” Sweepstakes Contest, hosted on Telegram and X and endorsed by the Kin Communitity.
+# kin-perk-live-events
+Documentation for the structure and development of the “Perk Digital Art” Live Events, hosted on Telegram and X and endorsed by the Kin Communitity.
